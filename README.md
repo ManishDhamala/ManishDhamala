@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **JavaScript & Java projects**
 
-- 🌱 I’m currently learning **JavaScript & React**
-
 - 👯 I’m looking to collaborate on **JavaScript & Java projects**
 
 - 👨‍💻 View my portfolio at [https://www.manishdhamala.com.np/](https://www.manishdhamala.com.np/)
