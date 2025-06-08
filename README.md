@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer & Designer from Nepal. Beyond the lines of code & design, I believe in the power of collaboration to drive positive change through community-driven initiatives.</h3>
 <img align="right" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 
-- 🔭 I’m currently working on **React & Spring Boot projects**
+- 🔭 I’m currently working on **React & Java projects**
 
 - 👯 I’m looking to collaborate on **React & Java projects**
 
